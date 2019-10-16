@@ -1,0 +1,18 @@
+header{
+    background-color: #2727278c;
+}
+
+.breadcrumb{
+    background: none;
+}
+.light{color:rgb(243, 243, 243);}
+
+#frmCheckUsername {border-top:#F0F0F0 2px solid;background:#FAF8F8;padding:10px;}
+.demoInputBox{padding:7px; border:#F0F0F0 1px solid; border-radius:4px;}
+.status-available{color:#2FC332;}
+.status-not-available{color:#D60202;} 
+
+
+body{
+    background-color: #000000;
+}
